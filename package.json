@@ -8,7 +8,8 @@
   "main": "base.js",
   "files": [
     "base.js",
-    "base.css"
+    "base.css",
+    "bg.png"
   ],
   "keywords": [
     "todomvc",
